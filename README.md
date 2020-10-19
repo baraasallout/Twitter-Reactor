@@ -6,5 +6,23 @@
 
 * In our case, we will analyze thousands of Twitter tweets to predict people’s sentiment. The function of the model is to output a label of ‘0’ when the tweet is positive, and ‘1’ when the tweet is negative.
 
+## Twitter Reactor Tasks
+
+The project is divided into 10 tasks. Here are the tasks in order:
+1.	Importing Libraries and Datasets.
+    [To download the dataset]( https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech) 
+2.	Exploring the Dataset.
+3.	Plotting the Word cloud.
+4.	Perform Data Cleaning by removing Punctuation from Text.
+5.	Perform Data Cleaning by removing Stopwords from Text.
+6.	Perform Count Vectorization (Tokenization).
+7.	Creating a Pipeline to remove Punctuations, Stopwords and Perform Count Vectorization.
+8.	Train a Naive Bayes classifier model.
+9.	Assess trained model performance.
+
+## More infomation 
+  To more infomation about machine learning project steps. [Go to my blog](https://baraasallout.wixsite.com/baraasallout/post/5-step-process-of-machine-learning-project) 
+
 ![](1.png)
+
 
