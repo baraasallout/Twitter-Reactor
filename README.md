@@ -10,7 +10,7 @@
 
 The project is divided into 10 tasks. Here are the tasks in order:
 1.	Importing Libraries and Datasets.
-    [To download the dataset]( https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech) 
+    [To download the dataset]( https://www.kaggle.com/mksaad/arabic-sentiment-twitter-corpus) 
 2.	Exploring the Dataset.
 3.	Plotting the Word cloud.
 4.	Perform Data Cleaning by removing Punctuation from Text.
