@@ -20,6 +20,12 @@ The project is divided into 10 tasks. Here are the tasks in order:
 8.	Train a Naive Bayes classifier model.
 9.	Assess trained model performance.
 
+## Twitter Reactor Andriod App
+[click to show Android code]( https://github.com/baraasallout/Twitter-Reactor/tree/main/CommentsAnalyzer%20-%20Copy) 
+
+## Twitter Reactor Machine learning code 
+[click to Machine learning code](https://github.com/baraasallout/Twitter-Reactor/tree/main/File_Model) 
+
 ## More infomation 
   To more infomation about machine learning project steps. [Go to my blog](https://baraasallout.wixsite.com/baraasallout/post/5-step-process-of-machine-learning-project) 
 
